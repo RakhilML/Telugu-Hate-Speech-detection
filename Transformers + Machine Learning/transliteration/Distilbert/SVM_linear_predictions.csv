@@ -1,0 +1,501 @@
+tweets,actual_label,predicted_label
+ènni sArlu ayina vinAlani uMdi chiTTi talli sUpar mA,non-hate,non-hate
+phyUchar lo bAga work out avutuMdi sUpar,non-hate,non-hate
+idi bèMDapUDi gavnamèMT sTUDèMTs ki mAtrame sAdhyaM ,non-hate,non-hate
+tèlugulo mATlADinappuDu chAlA aMdaMgA vinasòMpugA uMdi,non-hate,non-hate
+sUpar sisTar phyUchar lo railve lo jAb rAvAlani korukuMTunnAnu al di bèsTu,non-hate,non-hate
+vAv sUpar amma god bless u talli,non-hate,non-hate
+I skUl ni NRI vALLu Develop chestunnAru migilina skULlu kUDA èvaro òkkaru mAriste bAguMTuMdi,non-hate,non-hate
+sUpar baMgAraM bAgA chaduvutunnAv kaMpalsarI I jAbu nIke vastAdi ,non-hate,non-hate
+chAlA bAgA nerpistunnAru pillalaki,non-hate,hate
+mmèlye kAkamuMde polIs AphIsar ilA niMcho pèDutunnAru ika mukhyamaMtri ayinADo janAlani parugulu tIyistADu,non-hate,hate
+abbA abbA emi mATlADAru sar keka puTTiMche serugA nippu sar mIru,non-hate,non-hate
+sUpar sAr mIru chaMdrabAbu nAyuDuki kAvAlsiMdi mIlAMTivAru,non-hate,non-hate
+romAlu nikkaboDuchunnAy mI spIch to pavar phul lIDar exlent vAyis,non-hate,hate
+sUpar anna taggede ledu anna mIru taggakaMDi,non-hate,non-hate
+AlA gaDDi peTaMDi vèdhavaki sUpar sAr pulilA unnAv,non-hate,non-hate
+chAlA bAgA mATlADAru anna mIku,non-hate,non-hate
+nAkU rAjakIyAlu kAdu kAnI nI DailAg DèlivarI bAguMdi,non-hate,hate
+chAlA sUpar gA mATlADAru sAr,non-hate,non-hate
+annA chalabAgA mATlADAv TIDIpI ki mIlAMTivALlu chAlA avasaraM yèMtainA uMdi,non-hate,non-hate
+sUpar sAr mIlAMTi dammunna nAyakulupArTIki chAlA avasaraM,non-hate,non-hate
+sUpar sir mIlAMTi nAyakula TIDIpI lo vuMTe  sUpar vuMTuMdi,non-hate,non-hate
+eM chèppAv akka nI amma èMta gòppado dInni baTTi arthamavutuMdi,non-hate,non-hate
+Anna gurinchi chelli excellent ga cheppindi,non-hate,non-hate
+mI anna guriMchi bAgA chèppAv,non-hate,non-hate
+mI vènakAla prashAMt kiShor naDipistunnADu,non-hate,non-hate
+Ahankaram tagginchukondi madam,non-hate,hate
+koka bAguMdi raviki iMkA bAguMdi,non-hate,non-hate
+gèlipiMchukònnAM kadA talli I narakaM anubhUviMchAli,non-hate,non-hate
+nijAlu nijAyitIgA òppukune maniShi,non-hate,non-hate
+gorèMTla nu ninnu òkka skrIn mIda chUDAlani uMdi,non-hate,hate
+appaTikannA ippuDe bAguMdi,non-hate,non-hate
+bAlayya bAbune ayomayaMlo pèTTiMchAvugA annA,non-hate,non-hate
+navvu ApukolekapotunnAnu anna,non-hate,non-hate
+emo kAnI vijayashAMti ki mAtraM khachchitaM gA iMjakShan chesiuMTADu,non-hate,non-hate
+bAlayya bAbu feeling  vIDikèla tèlisiMdi abbA,non-hate,hate
+pApaM bAlayya èM ardaM kAledu,non-hate,non-hate
+èMtamaMdi ani gurtu pèTTukuMTAnu ani bAlayya uddeshaM,non-hate,hate
+chesi uMTAru sinimA raMgaMlo idaMtA kAman kadA,non-hate,non-hate
+mai phevarèT Tu lakShmI narasiMha mUvI,non-hate,non-hate
+miru aMTe pichchi kAnI kalvalemu aMte prema anna,non-hate,non-hate
+abhimAnulu aMTe èMta premo ,non-hate,hate
+ravi prakASh vArta prapaMchaMlo òka saMchalanaM ravi prakASh lenide TIvI nineledu,non-hate,non-hate
+chiraMjIvi sar ki ilAMTi paristhiti vòstuMdi ani èvvaru kalalo kUDA UhiMchi uMDaru,non-hate,non-hate
+èduTi maniShiki chèppeTaMduke nItulu unnAyi,non-hate,non-hate
+Mundu kanty epudu Baga style ga unnaru sir,non-hate,non-hate
+bhayaM atani blaD lo ledu,non-hate,hate
+èvaru saMgati emogAnI mIru mAtrame chAla gòppavAru,non-hate,non-hate
+Oke okka show tho aksanni antesaru meeru,non-hate,non-hate
+meruellgha chinha chinha drse llhu vehyakainde,non-hate,hate
+eMTa mI iddaru bAdha òkka mukka arthaM kAdu,non-hate,hate
+perni nAni gArini denito polchAlo arthaM kAvaTledu,non-hate,hate
+sakala janulU kulAlaku atItaMgA premiMche òke òkka nAyakuDu,non-hate,non-hate
+mummATiki ide nijaM kAnI ilA mATlADite èvarikI nachchadu,non-hate,non-hate
+Pawan kalyan cm aithene Andhra Pradesh bagupaduthundi avari valla kadu andaru dochukune valle unnaru,non-hate,non-hate
+oTami èMto nerchukovachchu dAni kikke veru uMTuMdi,non-hate,hate
+lokesh garu epudu chala matured ga vunnaru,non-hate,hate
+chAlA bAgA aDigAru kAni kalalu kanaDaM maMchidi,non-hate,non-hate
+annA I musali ippuDu ledu mònna chanipovaDaM jarigiMdi,non-hate,non-hate
+sUpar bhAnu,non-hate,non-hate
+Miku mana support yeppudi untundi Annayya we love Pavan boss ️,non-hate,non-hate
+Anna nuvu vara level ante,non-hate,non-hate
+annayya peru viMTe gUs bams vastAy,non-hate,non-hate
+Rgv tho vaka interview plan chesthunava nuvu kuda,non-hate,hate
+Idi Edo reel kabhatti sari poindhi lekha pothe aadhi anna deenikhi kuda eadoka setair veseavadu Mee midha,non-hate,non-hate
+Slient pettu bangaram phone,non-hate,hate
+Tension lo silent lo pettadam marchipoyindhi,non-hate,hate
+naresh pottigane vundura famous ga vuntav,non-hate,hate
+nijaMgA I pATa uMdA,non-hate,non-hate
+E phone Baya inta clarity vachindi video adi theatre lo,non-hate,non-hate
+Songs kosam mv ki vellochu super unnayi three songs,non-hate,non-hate
+Ekkada bro nuv ee movie chusindi ,non-hate,non-hate
+Ye mobile lo thesav bro clarity bagundhi,non-hate,non-hate
+Epudu varaku upload chysina videos e video a clarity ga vundi,non-hate,non-hate
+Movie  block buster Mass jathara bomma daddarillipoyindi in theatres super dooper hit,non-hate,non-hate
+𝙰𝚝𝚝𝚎𝚗𝚍𝚎𝚗𝚌𝚎 𝚐𝚞𝚛𝚒𝚗𝚌𝚑𝚒 𝚞𝚗𝚝𝚎 𝚋𝚊𝚐𝚞𝚗𝚍𝚞,non-hate,non-hate
+four lo second di tisi one ki two ki madyalo pedite four avtundi order saripotadi,non-hate,hate
+same nen ade anukunna,non-hate,hate
+okkati kuda thiyanavasarm ledhu ,non-hate,hate
+yela vastai ilaanti idea lu…,non-hate,non-hate
+Table reverse move cheyyali okasari,non-hate,hate
+four unnai kada andulo okati teyali easy,non-hate,non-hate
+Nenu ithae thinevadini inthsepu chudanu,non-hate,non-hate
+lAsT nAlugu bAdhamu lo mòdaTi rèMDu bAdhamu lo òkaTi tIsukòni lAsT lo òkaTi pèDite saripotuMdi siMpul,non-hate,non-hate
+asalu dance undhi chudu bro hats off antey,non-hate,non-hate
+yUTyUb lo emani sarch cheyAli bro I pATa kosaM,non-hate,non-hate
+Dani kanna mundu gym lantivi join aiyi slim avali apudu try cheyochu evanni,non-hate,non-hate
+òkasAri mA tèlaMgANa ki ra bradar nIku adikUDA dòrakadu unnadi chesukòni vere jAb ki Try chèy,non-hate,non-hate
+kòMtamaMdi kA udyogaM kUDA ledu,non-hate,non-hate
+Kinda paddakuda meeku emkaledu ,non-hate,hate
+prANaM pote tirigi rAdu bradars chUsukòni Draiv cheyaMDi plIj ,non-hate,non-hate
+Dabbu pote tirugu saMpAdiMchukovachchu kAnI prANaM pote tirigi saMpAdiMchiMdi kòMchèM jAgrattagA Draiv cheyaMDi,non-hate,non-hate
+Cheppedhi em lekapoina ha hm ani anna parledhu vallatho matladali anthee,non-hate,non-hate
+Phone cut chesthey inka yavaritho mataladestham ani Ami leka poina chepu chepu ani rod avtharu edhi fact,non-hate,hate
+Dharani badha padthunte naku nachatle e videos vdu,non-hate,hate
+eM mATlADutunnAru rA narAlu kaT aipoyinAy dayachesi Sho baMd cheyaDaM melu ,non-hate,non-hate
+òrey A poDupu katha araTIkAya,non-hate,hate
+raShmidi ani chèppi Adi lekapote alugutuMdi strIla paruvutIstunnadi,non-hate,non-hate
+Madam sigupaduthundhi emaina guthochintlu undhi,non-hate,non-hate
+Meru battalu vesykovadam avasarama,non-hate,hate
+Masooda fancy store lo konnava,non-hate,hate
+Ayina valla evaro gf neku msg ki enduku reply istadhi bayya,non-hate,hate
+Papam bratheke unada ga ney champasavu kadha bro papam,non-hate,hate
+Chitu videos Post cheyandi cute ga unnnadu,non-hate,non-hate
+Endukante miku circus and gimanstics radu only dance mathrame vachu kabatti sir ,non-hate,non-hate
+Shekhar master indulo unnada leda,non-hate,hate
+Avunu sir meeru dance chestaru kani veelaki circus kavalii,non-hate,hate
+Ramana gogula voice Pawan anna ki super ga set avthadi,non-hate,non-hate
+Appatlo ee kacheri lu bhale undedvi,non-hate,hate
+saMjay maMdu pArTI leda,non-hate,hate
+Endi ayya idi entha mandiki ide recording pettaru,non-hate,hate
+Idhi nijanga jarigindha leka veellaki news ledhani kottha news create chesaara,non-hate,non-hate
+Arey ma intlo naku twok kuda gettiga evaru,non-hate,hate
+Papam andaru help cheyali valla family ki,non-hate,non-hate
+rèsèMT gA memu avatAr sinimAki yèllinapuDu iTlAMT sIne chUsAM bhayyA,non-hate,non-hate
+Next janasena kI vote veyaMDi,non-hate,hate
+E ycp valu Adho goppa dhanam chesaru ani e sound Anti bhaiya,non-hate,hate
+Kerak dance mare Tagadeladu ladu Antha,non-hate,hate
+Papam e papa aa song ni chusi chusi ila aipoindi,non-hate,non-hate
+Rey edho reels chesthe comments enti bro alla pettaru,non-hate,hate
+Aa patalo una depth mee voice lo kanipinchindhi,non-hate,non-hate
+Nenu velu pedatha choodu Nenu velu pedatha choodu,non-hate,hate
+iMtakI eM pATa adi,non-hate,non-hate
+anupama lAgA maLlI puTTAli,non-hate,non-hate
+ilAMTi annayya nAku kAvAli plIj nAku annayya gA vuMDi pova annayya ,non-hate,non-hate
+naku annayya ledhu,non-hate,hate
+yAMkar sUpar gA uMdi ArjIvi gAriki phul ènarjI istuMdi,non-hate,non-hate
+nIlAMToLlani chUste ATomeTik ènarjI,non-hate,non-hate
+sUpar vuMdi phijik,non-hate,non-hate
+yAMkar eMTi rA bAbu sUpar gA uMdi,non-hate,non-hate
+ilAMTi yAMkar vuMTe èvarikainA ènarjI vastuMdi,non-hate,non-hate
+edemainA rgv ni iMTarvyU lu chese anchor lu,non-hate,non-hate
+nuvvu keka vA aMmi nuMnu chUshAka matipotuMdi,non-hate,non-hate
+rAnu rAnu glAmar vachchestunnAv AMTI,non-hate,non-hate
+Rana garu ee madya baaga famous avuthunnaru,non-hate,hate
+bAhubalilo nijaMgA rAnA AkTiMg bAguMdi,non-hate,non-hate
+katti lAMTi yAMkar,non-hate,non-hate
+mIru mègAsTAr annayya,non-hate,non-hate
+mègA sTAr pakkana kUrchune hakku nitya ki ledu,non-hate,hate
+Naku e interview chusaka babu gari meda enka respect chala perigindi,non-hate,hate
+CBN YSR gAru òkkaTe pArTI lo uMDi uMTe mana rAShTaM DèvalapmèMT lo NOone ples lo uMDedi,non-hate,non-hate
+mIru chAlA greT sAr mIlAMTi lIDar leDu,non-hate,non-hate
+Chandrababu Gari rajasekhar Gari sneham super,non-hate,non-hate
+gèlusukunna vèkti chAla adRRiShTa maMtuDu,non-hate,non-hate
+mIru ilAMTi èmmèlyelu mana deshaMlo kAvAli sAr,non-hate,non-hate
+mAdi anaMtapuraM mA Uru daggaralone dharmavaraM ketirèDDi anna chAlA maMchi vyakti,non-hate,non-hate
+ketirèDDi gAri manasu chAlA maMchidi,non-hate,non-hate
+mI videos anni chUsi mIku devuDu iMkA èMto ivvAlani korutunnA anna,non-hate,non-hate
+mIlAMTi vAru mA tèlaMgANa ku rAvAli annayya,non-hate,non-hate
+anna nenu chese pUjalu japAlu nAku vachche puNyaM aMtA nIke chaMdAlani devuni ki korukuMTA anna,non-hate,non-hate
+phyAkShan prakkana pèTTi prajallo guMDèllo unnAru sar,non-hate,hate
+ meru ap kuda cm aeithe bagunu sir,non-hate,non-hate
+YCP lo avarena manchiga work chethunaru anthe Adhi MLA KETHI REDDY gare,non-hate,hate
+Anna meeru chesepanulaki matallev anna,non-hate,non-hate
+Super sir pillalu chala chala happyga fell avtharu,non-hate,non-hate
+mI guriMchi chèppaDAniki mATal levu mIru sUpar anna,non-hate,non-hate
+baMDi Amèki sAyaM cheshAru alAge pillalu ki kòni pèTTAru,non-hate,non-hate
+thAMkyU anna mIlAMTi èmmèlye ni èkkaDa chUDaDaM ledu,non-hate,non-hate
+mIku janma nichchina tallidaMDrulaku èMto adRRiShTaM,non-hate,hate
+supar sAr mIlAMTi èmmèlye mA tèlaMganaku kavali,non-hate,non-hate
+akkada old people ki help chesaru and at the same time children ni happy chesaru,non-hate,non-hate
+anna mIlAMTi èmmèlyeni chUstuMTe chAlA saMtoShaMgA uMdanna,non-hate,non-hate
+mA Uru pAvagaDa mIlAMTi vALLu karNATaka ki rAvAli,non-hate,non-hate
+Mothaniki horn kotta kunda pani cheyyaru ani maku ardham ayindhi,non-hate,hate
+Men bane unnam kani mirenti mari road midha ekkada room ledha,non-hate,hate
+Mem bane unnam kani Niku venuka bagunda,non-hate,hate
+Mega star n shekar master all time block buster HIT,non-hate,non-hate
+Mari train nadipe vadini kodithe enni horns kodathadu ,non-hate,hate
+Maaa entiki vachi bangaram edharam kalisi tindham,non-hate,hate
+M M kIravANi saMgItaM aMTe mAmUlugA vuMDadu raktaM marigipotoMdi,non-hate,non-hate
+Kaanivanndi ra kaanivandi,non-hate,non-hate
+Janalu picha nayallu ayte avaru yemaina tisukontaru bro,non-hate,hate
+Inni horns vinna kabatti naku pichi ekkuthundhi ani ardam ,non-hate,hate
+Indulo thappu evaridhi,non-hate,hate
+Indhakati nunchi choosthunna aa dress endhuku yeguruthi bayya,non-hate,hate
+Ila e video continuous ga mem andharam chusthey maa andhariki burrapadu ani ardham ,non-hate,hate
+I have one dout long drive ke velle em chestaru  haa jst asking ,non-hate,hate
+Fast ga vacchina vaduroad cross chesthunna vadu iddharu eps ey,non-hate,hate
+Face chupichakud eanti sis edhi,non-hate,hate
+Eppudu cbi ni kuda ammuthadu ley,non-hate,hate
+Enti dhabidi dhibedena car loo  motham ah ah naughty Bhanu,non-hate,hate
+Endhuku adiganu ra anukkoni untadhi,non-hate,hate
+Ee pilla March lo onezero th rasindhi kada malli school lo ne undhi enti,non-hate,hate
+ECE antay branch kadu Fire  u,non-hate,hate
+Direct ga food department ni adagaleka ala cover chesindhi,non-hate,non-hate
+DC machines degara velli induction motor antadu ndi,non-hate,hate
+Dailogue matram superb ga cheparandi,non-hate,non-hate
+College ki poni vallaki ye day aithe emi ,non-hate,hate
+Cinima release ayyaka e song famous avthadi nenu chepthunna raskondi,non-hate,hate
+Chillara mohani judge ga pettindhi evarra,non-hate,hate
+Chala akali vesthundhi baga,non-hate,hate
+Buurapadu Burrapadu ayyababoi,non-hate,hate
+Bro nice editing bro meeku kanipinchi untee like kottamdi,non-hate,non-hate
+Bhanu prema lo padindhii royyyyy,non-hate,hate
+Atha kodalu midha oka reel cheyandi akka,non-hate,hate
+Anupama ma intiki ra anupama thindham ra anupama ,non-hate,hate
+Anti bayya nuvvu okka video tho subscribe chepinchav,non-hate,non-hate
+Ante eppudu trend ala vundi yem chestam oka frnd inko frnd ni kuda relation loki laakelutunnadu,non-hate,hate
+Annayya ni touch chese dammu evariki ledu,non-hate,hate
+Akka me babe face eppudu chupisthav,non-hate,non-hate
+Akka annadi photo pettu chudam,non-hate,non-hate
+Ah interview tarvata jinthaka githa githa ne na lucky person bro nuvu world lo ne jhonny bhai tarvatha,non-hate,hate
+Ah bombai car ki am bumper protection petina original bumper eh legsipodi,non-hate,hate
+Age to saMbaMdhaM lekuMDA DyAns to neTi yuvatarAniki ChAlèMj gA nilustunna ekaika hIro mègAsTAr chiraMjIvi annayya ️️️,non-hate,non-hate
+Adhi guntur government hspl mundhu ra ayya ma frd valla frds eh vallu ,non-hate,hate
+Abba nv super ga chesavu e video sevenzerotimes chusa ,non-hate,non-hate
+Aashu akkada cigarate smoke chestundhi,non-hate,hate
+Aa uncle kavalani aunty midha padi and vehicle kadhilindhi by mistake le madam antadu,non-hate,hate
+twozerotwofour lo anni non Sunday lu vastayi le Ala motivate avvatame ika,non-hate,hate
+muMdu nIku kcpd aite ilAMTi padAlu vADakuMDA uMTAv ,non-hate,non-hate
+Yevarrra pugadddu dhanikki judgement echindhi chepamannni,non-hate,hate
+Idhepudu judge ayindhii,non-hate,hate
+ayyA buvva èlA pèDutunnAro adikUDA chupiyaMDi,non-hate,hate
+Paisal vunte emaina jaruguthai driving ranodiki kuda licence istunaru indulo vintha emundhi ,non-hate,hate
+ naani ee madhya Roja tho kalsi manchi punchlu vesthunnad ra kaani avi pelaltla nagabaabugarru navvatla,non-hate,hate
+Swami lane vunnav nijanga super swami,non-hate,non-hate
+Sir Royal em filed bike person shirt bagundi link peduthara plss,non-hate,non-hate
+anna inka same background music sup anna inka elanti videos thiyandi,non-hate,non-hate
+Videos chala bagunnaya manchi message istunnaru annya,non-hate,non-hate
+Babu gadu chala baga acting chesthunadu super ra,non-hate,hate
+First search cheyali ante balance undali kadha raa babu meerekkada dorikaru ra babu maku ,non-hate,hate
+nèT uMDAli kadA bro,non-hate,hate
+Mundhu adhi type cheyadanikeina recharge vundali kadha beo ,non-hate,hate
+nenu kUDA zomoto lo chestunnA nannèvarU lAgaledu ,non-hate,non-hate
+Nuv thop Raju anna Prabhu tarvAta nuve,non-hate,hate
+Chaduvi samskaran nerpaniki sampadayyaniki tharvatha,non-hate,hate
+Meekem pani leda bayyaa ilanti vallani techukoni vedios pedataru ,non-hate,hate
+Aa onezeroth covid pass kadha,non-hate,hate
+Chaduvu raadu annappudu EE dialogues cheppali,non-hate,hate
+Bro ipudhu chadivithy chalu nik job evadu esthadu,non-hate,non-hate
+Bro edina avachu eduti vadiki respect evali kada mari antha attitude vunte kastam,non-hate,hate
+amma nAnna uMTe A saMtoShaM veru vAriddaru lekapote A bAdha saMtoShaM veru,non-hate,non-hate
+Repu vedu kuda okadiki Tandri avuthaduvela koduku entha ki elaga chustha telusthudi,non-hate,hate
+ miDil klAs taMDri kòDukula anubaMdhaM ilAge uMTuMdi ,non-hate,non-hate
+Andaru revanth gelusthadu anukoni shrihan ni money thisukomanaru,non-hate,hate
+Edi choosi kuda srihan ni blame chstunru anta great abba,non-hate,hate
+shatruvunainA navvutU palakariMchi gòppa manasunna vyakti rA mA jagananna,non-hate,non-hate
+Enduku navvutado ardam kaadu ,non-hate,hate
+Rey appu nee daridra navu nee face chudaleru janalu,non-hate,hate
+mIlAgA muMdu òkalAgA vènakAla iMkolAgA uMDaDu ippuDu òkelA uMTADu shatruvunaina premiMche gòppa manasunna vyakti rA mA jagananna,non-hate,non-hate
+A navveMTo mI vidhAnAlu eMTo ippaTikI mAku arthaM kAdu,non-hate,non-hate
+Prathhi uuru ila untey superb anevallu enthamandi,non-hate,hate
+Yedho oka roju nuvvu goppodivi avuthav babu,non-hate,hate
+Endhukandi ma AP people meda intha paga pattaru me family antha,non-hate,hate
+Same mid night recording dance behavir,non-hate,hate
+Nee matalaki evaraina fidaa avutharu mawa ,non-hate,hate
+òka maMchi hIro gopichaMd gAru,non-hate,non-hate
+Neanu Ameerper lo eappati nundoo untunna but noo use,non-hate,non-hate
+Naaku thelusu chivarini veelani jagan mama train batch chestharani,non-hate,hate
+Na arm a podavuga vundhi bro na kali kantay,non-hate,non-hate
+Mottani ki manchi message ichhav bayya Ala pilichina prathi ammayi venuka pothe Gitla intlo battalu ginnelu thomipistharu ani,non-hate,hate
+nuvu adadhani ve kadu,hate,hate
+mamidikayalo rasam thagalanipisthudi,hate,non-hate
+Nuvvu Adadhanivaithea first paita saduruko,hate,hate
+Nuv nee avataram enta aa cheera kattukovatam e,hate,hate
+dennichusthe chi daridram,hate,hate
+Meeku anni peddavigaane uMTAyi,hate,non-hate
+Po chala pedadiga undhi batalu vipi rodlo kurcho ve panikirani Munda pandi moham dhana,hate,hate
+neeku sigu ledhu chi west ,hate,hate
+kòka bAgalede bosiDike,hate,hate
+challa peddaga unaiii kadhaa,hate,hate
+Lopala kinda pettuko chustamu,hate,hate
+ilAMTi chètta mATalu chètta panulaki paniki vastA,hate,hate
+anta peddavi yela sampadinchavu cheppava,hate,non-hate
+Vatini tisukelli gudda lo petuko,hate,hate
+Koka Bane undhi Kindha pooko Ela undho teleedhu,hate,hate
+jocket ippukoni langa ippukoni nee falthu matalu nuvu ,hate,hate
+Pooooove langa Dana tu ne bratuku karona Aina vachi poledu edi,hate,hate
+kiMda kUDA kaDukko kòddigA ikkaDi dAka smell vastuMdi,hate,non-hate
+Ne sollu sorakayla vunay,hate,hate
+vIDu kosaM kesulu pèTTiMchukovali èmoo,hate,hate
+nijaMgAne buddilekuMDA gèlipiMchukunnAmu worst CM,hate,non-hate
+chètta prabhutvaM chètta mIda kUDA pannu estuMdi,hate,non-hate
+chèppu to kòTTAlsiMde akka vALLu nI,hate,non-hate
+nijaMgAne buddilekuMDA gèlipiMchukunnAmu worst CM in AP,hate,non-hate
+sèks varkars aMdarU…òkechoTa cherAru kadarA…,hate,non-hate
+vADi mITiMg ki vèLlina prati ammayi pativratale,hate,non-hate
+vIDi to mITiMg lu pèTTè vALLa ki buddhi ledu,hate,non-hate
+adi iShTaM kAdu kAmaM,hate,non-hate
+èdavalaku avakAshaM vaste ilAge uMTadi,hate,hate
+vADu aMTe anni vadileshADu mIkemaiMdi mari,hate,non-hate
+vALlaMtA òke tarahA pAraM bokulu,hate,hate
+vALlaMtA òke tarahA pAraM bokulu,hate,hate
+vADu pèLLAnni kanna biDDani vadi leshADu iMkeM bAdha,hate,hate
+ippuDu AMdhrajyoti muMduku poyi baTTalu vipputavA èMdi,hate,non-hate
+aMdari daggara paDukune dAnivi nIkèMduke I viShayAlu,hate,hate
+I sAri mIru tappani sarigA baTTalu vippavalsiMdè lekapotè ai haTTu,hate,non-hate
+nuvvu chIra kaTTukòni vIDiyo cheyaTAniki siggulede nIku,hate,hate
+ai shRRiMgAra shAkha maMtrivaryulu,hate,non-hate
+unnadi unnaTTugA aMTe èvarikainA maMDuddi,hate,non-hate
+Nuvvu dharnalu cheyali battalu lekunda ,hate,hate
+maLLI baTTalu vippukò tòMdaragA chUDAlani vuMdi,hate,non-hate
+shrI rèDDi  kòMchèM noTi dUla taggiMchukuMTe maMchidi,hate,non-hate
+andhri tho dhgunchi kuntundi,hate,hate
+Lanjalaku pelii eanduku,hate,hate
+nIvu chestAvA kApuraM,hate,non-hate
+dInine mèMTal aMTAru,hate,hate
+yadavalanu èMto maMdini chUsAnu kAnI iTuvaMTi òka lakShyaM aMTU leni yadavani vInne chUstunnA,hate,non-hate
+aMduke epI prajalu vIDni haThAvo annAru,hate,non-hate
+kaDukkovalasiMdi shubhraM gA kaDukko èvaDito emi galIju panulu chesi vachchAvo èvariki tèlusu,hate,non-hate
+Akulu chetulu pukulu annI maMchigA kaDukkovAli,hate,non-hate
+Mundduga p ku kadukovalli anatundi devuda,hate,hate
+pèdda pèdda boMDAlu èMta bAgunnAyo,hate,non-hate
+Osey laanjaa nethulapave,hate,hate
+Aakulu pookulu cheyoddu,hate,hate
+Nuvvu kadukkovaalievari mogga pattukontavo,hate,hate
+Mundu musukuko,hate,hate
+Mundhu adhi kadukooo,hate,hate
+Baga kaduko lekunte said effects vasthai,hate,hate
+Nuvvu ennisarlu kadukkuntav ennisarlu ginchukuntav,hate,hate
+Puvvu kuda kaduko vasana ikkadike vastundi,hate,hate
+Avi nethini kade ne bonda nethallu,hate,hate
+Papam vadiki poye kalam vachidhi vaddu hotel Inka evaru rarrru,hate,hate
+Aaa hand tho yevarevadi pattukunnavo emo baga kadukko mouth kuda baaga kadukooo,hate,hate
+Pove lanja,hate,hate
+guMTa maMchi pòMgu mIda uMdi,hate,hate
+kòbbari bòMDAlu kannA pèddagA unnAy,hate,non-hate
+Baaga pechasindhi,hate,non-hate
+saLLu super gA unnAy,hate,non-hate
+dIniki bAgA dulèkki kòTTukuMTuMdi,hate,hate
+mAku eMdi I karma ènni rojulu vinAli mI mATalu ,hate,hate
+vesukovaDaM deniki dAchukovaDaM deniki,hate,hate
+dInamma jIvitaM kaLLu chèdiripoyayi,hate,hate
+mIku daMDaM pèDatA I myUjik eMdirA nAyanA,hate,non-hate
+shekhar pichchipaTTinaTlu chestunnADu DAns,hate,hate
+prekShakulani edavalani cheyaDaMlo mIru diTTa,hate,non-hate
+E government ki èvarU èduru mATlADakUDademo rAkShasa pAlana,hate,non-hate
+A rogAlu kachchitaMgA nI valle vachchi uMTAyi aa,hate,non-hate
+poyekAlaM vachchinappuDu ilAge uMTuMdi,hate,non-hate
+chinna mèdaDu chitikipòina shrI rèDDi ,hate,non-hate
+ikanainA khaMDaM m vADu lekapote hèchaivi gyArèMTI,hate,non-hate
+nIpakkalo paDukunnAke A rogAlu anni vachchinAyi,hate,hate
+Na pandu bana undi pettna,hate,hate
+Mari neku ènI rogAlu unnAyi mari akka,hate,non-hate
+sIèMku siggu lekapote iTuvaMTi pathakAlu istADu,hate,hate
+Jagan bochukuda pikaleru twozerotwofour malli jagan cm,hate,hate
+puShpalo jAlirèDDi epIlo jail rèDDi,hate,non-hate
+fourtwozero jaganmohan rèDDi ika nuvvu jailuki ide nijaM nijaM pavanijaM,hate,hate
+mUDeLlake AMdhrapradesh mòttaM daridraM anubhavistuMdi,hate,non-hate
+appuDu gAnI prajala jIvitAlu vaMdashAtaM saMkanAkipovu,hate,non-hate
+Ma chopputho meme kottukovaal,hate,hate
+chaMchal‌gUDa jailulo onesevenfive sèl lo khaidI nèMbaru onesevenfive phiks,hate,hate
+bAtrUm loki poyi onesevenfivesArlu kòTTukoMDi,hate,hate
+Rgv kAdu jagan gADe tiMTuMchADu,hate,non-hate
+bAbAyi ne shavAnni chesina charitra mIdi,hate,hate
+mari nuvvu taMDri chAvunibAbAy chAvuni aDDaM pèTTukòni chesiMdi,hate,non-hate
+nI aMta nIchamaina maniShini rAjakIyAllo ippaTivaraku chUDaledu,hate,non-hate
+jaillo uMDAlsina pichchoDini sIèM nu chesinaMduku manade A tappu anubhaviMchaMDi,hate,non-hate
+ChIChI iMtadAruNamainamaniShininIchamainavaktinichUDaledu,hate,non-hate
+ilA mATa mArche vADini gòrrèlu nammutunnAyi,hate,hate
+nenu iMtavaraku iTuvaMTi kanniMg sIèM nI chUDaledu,hate,non-hate
+threezero vela koTla ekaralu dòbbaDaniki kadA anni paDutunnAvu,hate,hate
+ade fourtwozero paripAlana,hate,hate
+bochugaDivi nIvu tèlusA amit ShA ki guMDugA,hate,hate
+vIDiki edo jabbu uMdi roju rojukU ilA avutunnA,hate,hate
+vIDini daggaraki kuDA rAnivvaru,hate,hate
+phyUcharlo jagan gaMTeste ènTIAr daggara cheraDAniki gAlaM vestunnADu,hate,hate
+Ntr dhaggaraku vaste ntr anna fans mukkalugaa nariki chepalaku metha gaa vestaru vinni,hate,hate
+jagan vèLte mAtraM mèDalu èkkaDa vaMchestADo ani uchcha posuMTAremo aite,hate,non-hate
+nuvvu uMDaTaM mAtraM kaShTameninnu èvvaDo òkkaDu vèstaDu,hate,hate
+arey vèdhava chaMdrabAbu nAyuDu  prapaMchAniki tèlusu rA,hate,hate
+assalu I kòDAli gADiki amit ShA kalustADA,hate,non-hate
+nenu jaMtuvunu  nAku aTuvaMTi phIliMgs emi uMDavu,hate,non-hate
+vIDu DairèkTar ayuMDakuMTe vIDini e òkkarU paTTiMchu kune vAre kAdu,hate,hate
+kAmAMdhulanu aDigi kvashchan karèkT,hate,non-hate
+vALLamma kUDA aMtè amè kUDA chAlA IjI gA tIsukuMTAru,hate,non-hate
+iTuvaMTi prashnalu mIru aDagaDAniki mIku sigguMDAli,hate,non-hate
+jaMtu saMskRRiti unna I vèdhavani òka gòppa vADigA chUpiMchaDa memiTi,hate,non-hate
+èlAMTi èdavalaki iMDru èMduku,hate,hate
+chètta pannu eMdirA nAyanA,hate,non-hate
+challagA nètti mIda chèyyi pèTTADu,hate,non-hate
+nuvvu kUDA òkkòkkaDiki òkkòkka ChAns ivvu jaMglI ippaTike nAshanamai chastuMTe maLLI idi òkaTi vachchiMdi,hate,non-hate
+velupèTTi gèlakaMDi sammagA uMTuMdi maMgali ki,hate,non-hate
+dInni òkkasAri AP lo tippite tèlustuMdi phyAn èMta challagA vuMdo ippuDu padavi kòTTesiMdi,hate,non-hate
+nipuku pèDatA challagA uMTADA,hate,non-hate
+dIni vAyis daridraMgA uMTuMdi,hate,hate
+battalu sarigga vesuko va,hate,hate
+nuvvu nee voice cheraku dobbuthunti,hate,hate
+dheniki pelliyenti varada adi,hate,hate
+lanja laga vunnav,hate,hate
+kojja daga niku edi avasarama,hate,hate
+ni boobs chusta moodu aagadu,hate,hate
+ni shape challa  bagundi aa,hate,non-hate
+Daane todalu tomu gaadeda,hate,hate
+aite vèLLi èvaDidainA kuduvu ra,hate,hate
+lakShmI pArvatini mAyalo paDi alA anipiMchiMdA,hate,non-hate
+tèchchukunnAM kadA kori kori daridraM mana anubhaviMchaka tappadu jai janasena,hate,non-hate
+jalaga pAlanalo vAchipotoMdiiMka manaM AMdhrAlo uMDalemu,hate,non-hate
+ippuDu YCP ki antha seen ledhu bulugu batch dhammunte yedhi prnchakunda vuMTArA,hate,hate
+Ycp ki votu vesi chaaaala thappu chesaa,hate,hate
+rAShTraMlo jillAlaku perlu yUnivarsiTI perlu mArchukuMTU tiragaDaM tappa IDu emI pIkiMdi ledu,hate,hate
+Ma annayya phyAns uchcha poste A vuchchalo kòTTukupotavu la,hate,hate
+snehitulArA dAnni chèpputo kòTTaMDi,hate,non-hate
+fourtwozero reddy lenja vachhindi,hate,hate
+neeku chitikipoye roju tondaralo rAvAlani korukune vArilo nenu òkaDini,hate,non-hate
+dochADu jailu ki vèLLADu  maLli vèLtADu tòMdarlo ,hate,non-hate
+dInni èrragaDDa hAspiTal lo paDeyAli,hate,hate
+eM bukiMg lu rAvaDaM ledA nivu iMkòMchaM vippAli,hate,non-hate
+èMdulo pèMchAli ninnu eyaDaM lo nA,hate,non-hate
+potADu le vALLa nAnna lAge tvaralo  nuvvu kUDA repu mApo katti maheSh lAgA potAv,hate,non-hate
+Nvu chala peddavi ga pechavu gaaa ,hate,hate
+saLLu bAgA pèMchAv,hate,non-hate
+dInni èvarikainA chUpiMchaMDrA,hate,hate
+nIku balisiMde  bAgA ,hate,hate
+rokali baMDi saripoyida niku,hate,hate
+Neee brest bagundhi aa ,hate,hate
+rokali baMDi saripoyida niku,hate,hate
+ippaTike aMta lAvugA unnAy iMkA pèMchAlA devuDA iMkèMta kAvAli gd dAna,hate,non-hate
+avatAr loni hIro maadda kAvAli dIniki appuDu saripotuMdi,hate,non-hate
+Nevi chest baga size vachai okati okati football size unadh,hate,hate
+nuvvu èlA bratukutunnAve ,hate,hate
+Dos pèMchAli òkesAri padimaMdi to paDukunnA saripovaDaM ledu iMkAsta pèMchAli,hate,non-hate
+alrady pedda sizule kada pindithe nelaki maku milk bill migulthadhi,hate,hate
+Red light area ki vellu va nuvu correct ga set aavutav akkada,hate,hate
+ilAMTi vADu rAShTraM sIèM chI,hate,non-hate
+èvaDrA bAbu ninnu cm aMdi daridruDu siggucheTu,hate,hate
+òrey nIvu èlA chaduvukunnAvo ardhaM avutuMdirA,hate,hate
+Vesukovadam endhuku aa lanja  malli peekkovadam endhuku ️️️️,hate,hate
+kòbbari bòMDAlu kannA pèddagA unnAy,hate,non-hate
+I chètta rAtalu kUtalu DIpIlu ke saripoyiMdi,hate,hate
+niku vote vasavadikina siggu vundali,hate,hate
+mI saLLu jAgratta aa,hate,non-hate
+mAku eMdi I karma ènni rojulu vinAli mI mATalu ,hate,hate
+vesukovaDaM deniki dAchukovaDaM deniki,hate,hate
+dInamma jIvitaM kaLLu chèdiripoyayi,hate,hate
+mIku daMDaM pèDatA I myUjik eMdirA nAyanA,hate,non-hate
+shekhar pichchipaTTinaTlu chestunnADu DAns,hate,hate
+prekShakulani edavalani cheyaDaMlo mIru diTTa,hate,non-hate
+E government ki èvarU èduru mATlADakUDademo rAkShasa pAlana,hate,non-hate
+A rogAlu kachchitaMgA nI valle vachchi uMTAyi aa,hate,non-hate
+mòhaM mIda mAsk èMduku rA bayaTaku vaste kukkanu kòTTinaTTu kodathaaru ani bhayaM,hate,non-hate
+Manam em peekalem ,hate,hate
+òkka sITu kUDA gèlavalenoniki iMta bilDappA,hate,non-hate
+phigar mastu sUpar uMTadi,hate,non-hate
+Kinda gokuthadu,hate,hate
+Avi todala masala vadala,hate,hate
+nenu kApu kAdurA luccha,hate,non-hate
+jagan  ko kulaM mataM prAMtAla madhya chichchu pèTTi chalimaMTa kAchukòne daMDupALyaM bAch,hate,non-hate
+pavan kalyAN gAri bUTlu pAliSh cheyaDaniki kUDA paniki rAni prati chillara gADu Ayana guriMchi mATlADame,hate,non-hate
+raMDirA mIru èppuDu vastArA mA iMTiki ani chIpuru kaTTato chUstunnA,hate,non-hate
+sariggA nuvvu bòkkalo uMDi chippakUDu tinnanni nèlalannamATa idedo devuDi skripT lA uMde,hate,hate
+gaDapa tòkkite chIpuru dèbba progrAM prajaladi,hate,hate
+aMdukune rA ninnu jail jali rèDDi aMTAru,hate,hate
+vIDiki bèDrUm laku poye alavATu unnaTTu uMdi,hate,hate
+vèTakAraM ki tappa rAShTra abhivRRidhi ki paniki rAni sIèM,hate,non-hate
+Konni rojule ee comidynext nuvvu jail lo chippakudu,hate,hate
+nI ChAlèMj mA annaku vèMTrukato samAnaM pove,hate,non-hate
+nagari lo poTI twozerotwofour cheyi nIki IsAri kriMda paina chinagaka pote,hate,hate
+vaisIpI vALlu ippuDu TiDipini chUsina pai paDataledu pavan nu chUste uchcha posukuMTunnAru,hate,hate
+pakAlu vesukòne bratike prati pativrata mATlADaTame,hate,non-hate
+meM èM sarve lu chepiya lede bayaM kadA,hate,hate
+pove lophar mI jagan  nuvvu kalisi ADukoMDi,hate,hate
+ vasa roja Rajasekhar reddy SIR kuda single ga poticheyaledu marichipoku,hate,non-hate
+Danemma daniki Baga ycp dabbu thini thini doola perigindi,hate,hate
+Chepputho kottinattu vundi roja ku,hate,hate
+mari pArTI ledu bòkka ledu annAv achchosina AMbotu,hate,non-hate
+mAku abhivRRiddhi vaddu navaratnAlu chillare muddu,hate,non-hate
+mari pArTI ledu bòkka ledu annAv,hate,non-hate
+vADiki abhivRRiddhi kAdu kAvAlsiMdi maLLI gèlavAli ani,hate,non-hate
+mari amarAvati aMTU fivesaMdocheshArukadayyA bAbAylU,hate,hate
+kanniMg chaMdrAlu chUpu chUDaMDi,hate,non-hate
+e mudathaaa mohani kuda famous cheysaruu,hate,non-hate
+Nuv antha buaty ga am undav ma karuvu vaka alla kanipistav anth,hate,non-hate
+neeku aa steps tappa inkem ravu,hate,hate
+ni bathuke antha,hate,hate
+Piralu enka peyragali,hate,hate
+Ayithe pelliki panikirravu,hate,hate
+First ha mask theese post chey ra,hate,hate
+Anna Gaatiga dimpinav kada paytmDogs k,hate,non-hate
+adi aTlUTaMdi manatoni ra,hate,non-hate
+Ramp padudhi ra niku tondarlo KCPD,hate,hate
+nIvu mI anna òkkaTe,hate,non-hate
+mI daridraM eMTaMTe denikosaM mATlADina adi mI phyAmilI siMk avutuMdi,hate,hate
+tappuDukUta kUste chèppuchchukòTTaMDi ADamaga chUDakuMDA,hate,non-hate
+lophar rojA ki marI mATlADe vidhAnaM lekuMDA potuMdi,hate,non-hate
+akkayya gAri mukhaM lo twozerotwofour lo oTami bhayaM kanipistuMdi,hate,non-hate
+rojAki buddhi ledu siggu èggu lekuMDA vAgutuMdi,hate,hate
+rojA ki shrIrèDDi ki pèdda teDA emi ledu,hate,hate
+jaganannaku èkkaDèkkaDa vèMTrukalu unnAyo rojA ki bAgA tèlusu,hate,hate
+ maunika nIvèMTa nI batukèMta,hate,hate
+prajala samasyalu paTTiMchukòMDi pawan anna meedha padi yedustarenti yeppudu,hate,non-hate
+jagan chèTikènu velu daggara  unnaTlu meDaM èppuDu chusAro,hate,non-hate
+mA kApu vADini AMTe kuttA paguludi,hate,non-hate
+IviDa roju rojukI digajAri potuMdi noTiki haddu paddu ledu,hate,hate
+Osey gojjje roja Dana Niku poye kalam vachindhi,hate,hate
+chèpputo kòTTinaTTe bhale chèppAru,hate,hate
+èduru bòMgu tIsesukuni lopala tosko,hate,hate
+dIniki saut AphrikA vADu rAD kAvAli,hate,hate
+pèddagA unnAyani kiMda pèTTukunevu,hate,non-hate
+ni mokaaniki konchem piyya rasesukoni,hate,hate
+abbA idi saMsAri kevalaM seva chestuMdi,hate,hate
+abbA vachchiMdi aMDi AMdhrapradesh vIra pativrata nuvvu nAku poyi,hate,hate
+adi nuvvu chèpputunnAvA chi chi,hate,non-hate
+nuvvu Dabbulu ichy chi rèDDi nIku èkkaDa pèTTamaMTe akkaDa pèDatA,hate,hate
+roju nI mòhaM addaM chUsuko roju chUDaleka potunnAnu,hate,hate
+vinaleka potunnAmu,hate,hate
+Dabbu iste ninnukUDa èstADu,hate,hate
+nidi chUpiMchu dèbbaki sèT aipoyidi rojAku,hate,hate
+edi nAkina nIdi mAtraM kachchitaMgA nAkaDu chI rèDDi,hate,non-hate
+ippuDu nidiaina nakutADu Dabbulu iste,hate,hate
+Emi echavaa  Andaru neelagaa nakaru ,hate,hate
