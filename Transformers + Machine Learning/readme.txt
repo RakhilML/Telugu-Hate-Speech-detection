@@ -1,1 +1,1 @@
-check
+The Folder Code-Mixed contains the file where the transformers and machine learning models are trained with Code-mixed data. The same applies for Translation and transliteration folders where those are trained on translated and transliterated data from the original Dataset.
