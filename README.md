@@ -34,5 +34,8 @@ The rise of hate speech on social media poses significant risks to social harmon
 * We also found that combining embeddings from multiple transformers with traditional classifiers significantly enhances detection accuracy, showcasing the potential of hybrid systems for moderating hate speech.
 * The future work will be, extending these techniques to more low-resource languages, exploring domain-specific embeddings, and improving the real-time efficiency of hate speech detection systems.
 
+# Cite
 
+Consider citing the Work at
+https://doi.org/10.1109/ICMACC62921.2024.10894699
 
